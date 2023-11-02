@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antoine\\Documents\\dev\\c#\\TesteCreationProjetCloudPhoto\\TesteCreationProjetCloudPhoto\\TesteCreationProjetCloudPhoto.csproj",
+      "projectUniqueName": "C:\\Users\\antoine\\Desktop\\dev\\c#\\TesteCreationProjetCloudPhoto\\TesteCreationProjetCloudPhoto\\TesteCreationProjetCloudPhoto.csproj",
       "projectName": "TesteCreationProjetCloudPhoto",
-      "projectPath": "C:\\Users\\antoine\\Documents\\dev\\c#\\TesteCreationProjetCloudPhoto\\TesteCreationProjetCloudPhoto\\TesteCreationProjetCloudPhoto.csproj",
+      "projectPath": "C:\\Users\\antoine\\Desktop\\dev\\c#\\TesteCreationProjetCloudPhoto\\TesteCreationProjetCloudPhoto\\TesteCreationProjetCloudPhoto.csproj",
       "packagesPath": "C:\\Users\\antoine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antoine\\Documents\\dev\\c#\\TesteCreationProjetCloudPhoto\\TesteCreationProjetCloudPhoto\\obj\\",
+      "outputPath": "C:\\Users\\antoine\\Desktop\\dev\\c#\\TesteCreationProjetCloudPhoto\\TesteCreationProjetCloudPhoto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antoine\\AppData\\Roaming\\NuGet\\NuGet.Config",

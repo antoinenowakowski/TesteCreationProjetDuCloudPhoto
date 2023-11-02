@@ -6,6 +6,7 @@
  * création compte ou connexion
  * demander importer photos ou supprimer photo
  */
+using TesteCreationProjetCloudPhoto.classes;
 using TesteCreationProjetCloudPhoto.Fonctions;
 
 
@@ -40,8 +41,12 @@ string DemandeCompteCree()
         {
             Console.WriteLine("Vous n'avez pas de compte");
             Console.WriteLine("Veillez vous en créer un");
+            CreeCompte();
         }
-        DemandeCompteCree();
+        else
+        {
+            DemandeCompteCree();
+        }
     }
 
     return EntreeUtilisateur;
@@ -52,16 +57,31 @@ void SeConnecter()
     Console.WriteLine("Renseignez votre email : ");
     string email = Console.ReadLine(); 
     Console.WriteLine("Renseignez votre mot de passe : ");
-    string motDePasse = Console.ReadLine();
+    string motDePasse = Console.ReadLine();   
+    Console.WriteLine("Renseignez votre pin à 4 chiffres : ");
+    string pin = Console.ReadLine();
 
-    Connexion NouvelleConnexion = new Connexion(email, motDePasse);
-    Console.WriteLine($"Votre email est : {NouvelleConnexion.Email} \nEt votre mot de passe est : {NouvelleConnexion.Password}");
+    Connexion NouvelleConnexion = new Connexion(email, motDePasse, int.Parse(pin));
+    Console.WriteLine($"Votre email est : {NouvelleConnexion.Email} \nVotre mot de passe est : {NouvelleConnexion.Password} \nEt votre pin est {pin}");
 }
 
 void CreeCompte()
 {
+    Console.WriteLine("Vous n'avez pas de compte ! ");
 
+    Console.WriteLine("Renseignez votre nom : ");
+    string name = Console.ReadLine();    
+    Console.WriteLine("Renseignez votre email : ");
+    string email = Console.ReadLine();
+    Console.WriteLine("Renseignez votre mot de passe : ");
+    string motDePasse = Console.ReadLine();
+    Console.WriteLine("Renseignez votre pin à 4 chiffres : ");
+    string pin = Console.ReadLine();
+
+    CreerCompte NouveauCompte = new CreerCompte(name, email, motDePasse, int.Parse(pin));
+    Console.WriteLine($"Votre nom est : {NouveauCompte.Name} \nVotre email est : {NouveauCompte.Email} \nVotre mot de passe est : {NouveauCompte.Password} \nEt votre pin est {pin}");
 }
+
 #endregion
 
 DemandeCompteCree();

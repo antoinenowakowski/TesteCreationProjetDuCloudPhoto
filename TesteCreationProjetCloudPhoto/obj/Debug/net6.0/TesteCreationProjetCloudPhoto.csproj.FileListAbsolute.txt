@@ -12,3 +12,17 @@ C:\Users\antoine\Documents\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationPro
 C:\Users\antoine\Documents\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\TesteCreationProjetCloudPhoto.pdb
 C:\Users\antoine\Documents\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\TesteCreationProjetCloudPhoto.genruntimeconfig.cache
 C:\Users\antoine\Documents\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\ref\TesteCreationProjetCloudPhoto.dll
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\bin\Debug\net6.0\TesteCreationProjetCloudPhoto.exe
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\bin\Debug\net6.0\TesteCreationProjetCloudPhoto.deps.json
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\bin\Debug\net6.0\TesteCreationProjetCloudPhoto.runtimeconfig.json
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\bin\Debug\net6.0\TesteCreationProjetCloudPhoto.dll
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\bin\Debug\net6.0\TesteCreationProjetCloudPhoto.pdb
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\TesteCreationProjetCloudPhoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\TesteCreationProjetCloudPhoto.AssemblyInfoInputs.cache
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\TesteCreationProjetCloudPhoto.AssemblyInfo.cs
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\TesteCreationProjetCloudPhoto.csproj.CoreCompileInputs.cache
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\TesteCreationProjetCloudPhoto.dll
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\refint\TesteCreationProjetCloudPhoto.dll
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\TesteCreationProjetCloudPhoto.pdb
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\TesteCreationProjetCloudPhoto.genruntimeconfig.cache
+C:\Users\antoine\Desktop\dev\c#\TesteCreationProjetCloudPhoto\TesteCreationProjetCloudPhoto\obj\Debug\net6.0\ref\TesteCreationProjetCloudPhoto.dll
