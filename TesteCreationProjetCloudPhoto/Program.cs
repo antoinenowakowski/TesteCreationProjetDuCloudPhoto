@@ -1,17 +1,8 @@
-﻿/*
- * Création de classes et teste du projet cloud photo
- * app console, et demandes fictives
- * 
- * Demander compte ou pas compte
- * création compte ou connexion
- * demander importer photos ou supprimer photo
- */
-using TesteCreationProjetCloudPhoto.classes;
+﻿using TesteCreationProjetCloudPhoto.classes;
 using TesteCreationProjetCloudPhoto.Fonctions;
 
 
 #region Fonctions
-
 
 string DemandeCompteCree()
 {
